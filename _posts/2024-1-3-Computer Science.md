@@ -11,7 +11,7 @@ categories:
 
 ### Algorithm
 
-- [[啊哈！算法]（入门）](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/algorithm/[啊哈！算法]（入门）.pdf)
+- [啊哈！算法]（入门） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/algorithm/[啊哈！算法]（入门）.pdf)
 - [经典算法c和java的实现](algorithm/经典算法c和java的实现.zip)
 - [垃圾回收的算法与实现---文字版](algorithm/垃圾回收的算法与实现---文字版.pdf)
 - [算法图解( 入门)](algorithm/算法图解(入门).pdf)
