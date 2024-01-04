@@ -23,7 +23,7 @@ categories:
 
 ### CSS
 
-<!-- - [Bootstrap实战从入门到精通.pdf](https://drive.google.com/file/d/1MkdTnVpHSR1yq6HkCDvgF5fylle3zQug/view?usp=share_link) -->
+- Bootstrap实战从入门到精通.pdf [PDF](https://drive.google.com/file/d/1MkdTnVpHSR1yq6HkCDvgF5fylle3zQug/view?usp=share_link)
 
 ### DDD
 
@@ -65,7 +65,8 @@ categories:
 - Packt.Go.Programming.Blueprints [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/golang/Packt.Go.Programming.Blueprints.pdf)
 
 ### Javascript
-<!-- - [21天学通JavaScript.pdf](https://drive.google.com/file/d/1svqKZ4mScL3aJOLPHzw2GyMrsQtaDnTE/view?usp=share_link) -->
+
+- 21天学通JavaScript [PDF](https://drive.google.com/file/d/1svqKZ4mScL3aJOLPHzw2GyMrsQtaDnTE/view?usp=share_link)
 - 编写可维护的javascript [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/javascript/编写可维护的javascript.pdf)
 - 你不知道的JavaScript（上卷） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/javascript/你不知道的JavaScript（上卷）.pdf)
 - 你不知道的JavaScript（中卷） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/javascript/你不知道的JavaScript（中卷）.pdf)
@@ -82,10 +83,10 @@ categories:
 
 - 第一本Docker书PDF电子书下载(带书签目录)完整版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/第一本Docker书PDF电子书下载(带书签目录)完整版.pdf)
 - kubernetes手册2017最新版（强烈推荐） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/kubernetes手册2017最新版（强烈推荐）.pdf)
-<!-- - Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版) [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版).pdf) -->
+- Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
 - DevOps的概念与实践（2014年） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
 - adersberger-istio-playground-180621060536 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/adersberger-istio-playground-180621060536.pdf)
-<!-- - [《Kubernetes in Action中文版》提取码: yytc ](https://pan.baidu.com/s/1K8P_Myv379pH8nJAIF7k-Q)  -->
+- 《Kubernetes in Action中文版》_七牛容器云团队译_2018-12-01 [PDF](https://drive.google.com/file/d/1aQjJv2bqCgp1rIfWzpy3GbboO1pCzIiM/view?usp=share_link) 
 
 ### Database
 
@@ -113,7 +114,7 @@ categories:
 ### Nginx
 
 - 深入理解Nginx模块开发与架构解析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/nginx/深入理解Nginx模块开发与架构解析.pdf)
-<!-- - [agentzh_nginx_tutorail] [FILE](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/nginx/agentzh_nginx_tutorail) -->
+- agentzh_nginx_tutorail [FOLDER](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/nginx/agentzh_nginx_tutorail)
 - 理解Nginx源码 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/nginx/理解Nginx源码.pdf)
 
 ### Openresty
