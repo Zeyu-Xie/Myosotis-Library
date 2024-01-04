@@ -7,6 +7,20 @@ keywords: Computer Science
 categories: 
 ---
 
+## AI
+
+- 欧姆社学习漫画-数学·漫画测量 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画测量.pdf)
+- 欧姆社学习漫画-数学·漫画傅里叶解析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画傅里叶解析.pdf)
+- 欧姆社学习漫画-数学·漫画密码 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画密码.pdf)
+- 欧姆社学习漫画-数学·漫画统计学 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学.pdf)
+- 欧姆社学习漫画-数学·漫画统计学之回归分析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学之回归分析.pdf)
+- 欧姆社学习漫画-数学·漫画统计学之因子分析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学之因子分析.pdf)
+- 欧姆社学习漫画-数学·漫画微分方程 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画微分方程.pdf)
+- 欧姆社学习漫画-数学·漫画微积分 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画微积分.pdf)
+- 欧姆社学习漫画-数学·漫画线性代数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画线性代数.pdf)
+- 欧姆社学习漫画-数学·漫画虚数和复数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画虚数和复数.pdf)
+- 《深度学习入门：基于Python的理论与实现》高清中文版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/《深度学习入门：基于Python的理论与实现》高清中文版.pdf)
+
 ## Algorithm
 
 - 啊哈！算法（入门） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/algorithm/[啊哈！算法]（入门）.pdf)
@@ -19,29 +33,23 @@ categories:
 
 - software-architecture-patterns [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/architecture/software-architecture-patterns.pdf)
 
+## Block Chain
+
+- 区块链技术进阶与实战（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/blockchain/区块链技术进阶与实战（第2版）.pdf)
+
 ## CSS
 
 - Bootstrap实战从入门到精通.pdf [PDF](https://drive.google.com/file/d/1MkdTnVpHSR1yq6HkCDvgF5fylle3zQug/view?usp=share_link)
 
+## Database
+
+- 收获，不止Oracle [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/收获，不止Oracle.pdf)
+- Redis实战 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/Redis实战.pdf)
+- Redis设计与实现 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/Redis设计与实现.pdf)
+
 ## DDD
 
 - 领域驱动设计精简版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ddd/领域驱动设计精简版.pdf)
-
-## OS
-
-- vbird-linux-basic-4e [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/vbird-linux-basic-4e.pdf)
-- 隐匿在计算机软硬件背后的语言 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/隐匿在计算机软硬件背后的语言.pdf)
-- UNIX编程艺术（中文） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX编程艺术（中文）.pdf)
-- UNIX环境高级编程（中文第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX环境高级编程（中文第2版）.pdf)
-- UNIX网络编程卷1：套接字联网API（第3版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX网络编程卷1：套接字联网API（第3版）.pdf)
-- UNIX网络编程卷2：进程间通信（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX网络编程卷2：进程间通信（第2版）.pdf)
-
-## VIM
-
-- 大家来学Vim [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/大家来学Vim.pdf)
-- vi-vim-cheat-sheet [GIF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vi-vim-cheat-sheet.gif)
-- vim_cheat_sheet_for_programmers_print [PNG](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vim_cheat_sheet_for_programmers_print.png)
-- vim-cheat-sheet-full [PNG](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vim-cheat-sheet-full.png)
 
 ## Erlang
 
@@ -62,6 +70,20 @@ categories:
 - MasteringConcurrencyInGo [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/golang/MasteringConcurrencyInGo.pdf)
 - Packt.Go.Programming.Blueprints [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/golang/Packt.Go.Programming.Blueprints.pdf)
 
+## DevOps
+
+- 第一本Docker书PDF电子书下载(带书签目录)完整版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/第一本Docker书PDF电子书下载(带书签目录)完整版.pdf)
+- kubernetes手册2017最新版（强烈推荐） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/kubernetes手册2017最新版（强烈推荐）.pdf)
+- Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
+- DevOps的概念与实践（2014年） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
+- adersberger-istio-playground-180621060536 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/adersberger-istio-playground-180621060536.pdf)
+- 《Kubernetes in Action中文版》_七牛容器云团队译_2018-12-01 [PDF](https://drive.google.com/file/d/1aQjJv2bqCgp1rIfWzpy3GbboO1pCzIiM/view?usp=share_link) 
+
+## HTTP
+
+- 图解HTTP [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/http/图解HTTP.pdf)
+- 使用HTTP_2提升性能的7个建议 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/http/使用HTTP_2提升性能的7个建议.pdf)
+
 ## Javascript
 
 - 21天学通JavaScript [PDF](https://drive.google.com/file/d/1svqKZ4mScL3aJOLPHzw2GyMrsQtaDnTE/view?usp=share_link)
@@ -77,37 +99,9 @@ categories:
 - Speaking JavaScript [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/javascript/SpeakingJavaScript.pdf)
 - node深入浅出 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/javascript/node深入浅出.pdf)
 
-## DevOps
-
-- 第一本Docker书PDF电子书下载(带书签目录)完整版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/第一本Docker书PDF电子书下载(带书签目录)完整版.pdf)
-- kubernetes手册2017最新版（强烈推荐） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/kubernetes手册2017最新版（强烈推荐）.pdf)
-- Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
-- DevOps的概念与实践（2014年） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/DevOps的概念与实践（2014年）.pdf)
-- adersberger-istio-playground-180621060536 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/devops/adersberger-istio-playground-180621060536.pdf)
-- 《Kubernetes in Action中文版》_七牛容器云团队译_2018-12-01 [PDF](https://drive.google.com/file/d/1aQjJv2bqCgp1rIfWzpy3GbboO1pCzIiM/view?usp=share_link) 
-
-## Database
-
-- 收获，不止Oracle [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/收获，不止Oracle.pdf)
-- Redis实战 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/Redis实战.pdf)
-- Redis设计与实现 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/database/Redis设计与实现.pdf)
-
 ## MQ
 
 - RabbitMQ实战  高效部署分布式消息队列 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/mq/RabbitMQ实战-高效部署分布式消息队列.pdf)
-
-## HTTP
-
-- 图解HTTP [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/http/图解HTTP.pdf)
-- 使用HTTP_2提升性能的7个建议 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/http/使用HTTP_2提升性能的7个建议.pdf)
-
-## TCP
-
-- 图解TCP_IP [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/tcp/图解TCP_IP.pdf)
-
-## WebRTC
-
-- kurento [DOCX](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/webrtc/kurento.docx)
 
 ## Nginx
 
@@ -119,20 +113,26 @@ categories:
 
 - OpenResty-Best-Practices [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/or/OpenResty-Best-Practices.pdf)
 
-## Block Chain
+## OS
 
-- 区块链技术进阶与实战（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/blockchain/区块链技术进阶与实战（第2版）.pdf)
+- vbird-linux-basic-4e [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/vbird-linux-basic-4e.pdf)
+- 隐匿在计算机软硬件背后的语言 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/隐匿在计算机软硬件背后的语言.pdf)
+- UNIX编程艺术（中文） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX编程艺术（中文）.pdf)
+- UNIX环境高级编程（中文第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX环境高级编程（中文第2版）.pdf)
+- UNIX网络编程卷1：套接字联网API（第3版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX网络编程卷1：套接字联网API（第3版）.pdf)
+- UNIX网络编程卷2：进程间通信（第2版） [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/os/UNIX网络编程卷2：进程间通信（第2版）.pdf)
 
-## AI
+## TCP
 
-- 欧姆社学习漫画-数学·漫画测量 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画测量.pdf)
-- 欧姆社学习漫画-数学·漫画傅里叶解析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画傅里叶解析.pdf)
-- 欧姆社学习漫画-数学·漫画密码 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画密码.pdf)
-- 欧姆社学习漫画-数学·漫画统计学 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学.pdf)
-- 欧姆社学习漫画-数学·漫画统计学之回归分析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学之回归分析.pdf)
-- 欧姆社学习漫画-数学·漫画统计学之因子分析 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画统计学之因子分析.pdf)
-- 欧姆社学习漫画-数学·漫画微分方程 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画微分方程.pdf)
-- 欧姆社学习漫画-数学·漫画微积分 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画微积分.pdf)
-- 欧姆社学习漫画-数学·漫画线性代数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画线性代数.pdf)
-- 欧姆社学习漫画-数学·漫画虚数和复数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画虚数和复数.pdf)
-- 《深度学习入门：基于Python的理论与实现》高清中文版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/《深度学习入门：基于Python的理论与实现》高清中文版.pdf)
+- 图解TCP_IP [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/tcp/图解TCP_IP.pdf)
+
+## VIM
+
+- 大家来学Vim [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/大家来学Vim.pdf)
+- vi-vim-cheat-sheet [GIF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vi-vim-cheat-sheet.gif)
+- vim_cheat_sheet_for_programmers_print [PNG](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vim_cheat_sheet_for_programmers_print.png)
+- vim-cheat-sheet-full [PNG](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/vim/vim-cheat-sheet-full.png)
+
+## WebRTC
+
+- kurento [DOCX](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/webrtc/kurento.docx)
