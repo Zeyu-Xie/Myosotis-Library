@@ -3,6 +3,7 @@ layout: post
 title:  "Literature"
 date:   2024-1-4 17:11 +0800
 author: Acan
+hide_date: true
 keywords: Literature
 categories: 
 ---
