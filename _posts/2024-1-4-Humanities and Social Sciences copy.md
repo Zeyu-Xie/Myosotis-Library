@@ -18,6 +18,7 @@ categories:
 - 暗访十年 [EPUB](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/humanities_and_social_sciences/history/%E6%9A%97%E8%AE%BF%E5%8D%81%E5%B9%B4.epub)
 - 牛鬼蛇神录 [EPUB](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/humanities_and_social_sciences/history/%E7%89%9B%E9%AC%BC%E8%9B%87%E7%A5%9E%E5%BD%95.epub)
 - 麦苗青菜花黄 [EPUB](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/humanities_and_social_sciences/history/%E9%BA%A6%E8%8B%97%E9%9D%92%E8%8F%9C%E8%8A%B1%E9%BB%84.epub)
+- 红雨：一个中国县域七个世纪的暴力史 [EPUB](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/humanities_and_social_sciences/history/红雨：一个中国县域七个世纪的暴力史.epub)
 
 ## Politics
 
