@@ -21,6 +21,7 @@ categories:
 - 欧姆社学习漫画-数学·漫画线性代数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画线性代数.pdf)
 - 欧姆社学习漫画-数学·漫画虚数和复数 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/欧姆社学习漫画-数学·漫画虚数和复数.pdf)
 - 《深度学习入门：基于Python的理论与实现》高清中文版 [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/《深度学习入门：基于Python的理论与实现》高清中文版.pdf)
+- 最优化：建模、算法与理论.pdf [PDF](https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Storage-1/main/Myosotis-Library/computer_science/ai/最优化：建模、算法与理论.pdf)
 
 ## Algorithm
 
